@@ -121,7 +121,7 @@ Right now, I’m focused on:
 ## Let’s connect
 
 - Portfolio: **https://varunj.dev/**
-- LinkedIn: **https://www.linkedin.com/in/varunkumarj**
+- LinkedIn: **https://www.linkedin.com/in/varunjallepalli**
 - Email: **varunjallepalli@gmail.com**
 
 I’m especially interested in roles across **Applied AI**, **AI product engineering**, **agentic systems**, and **full-stack AI platforms**.
