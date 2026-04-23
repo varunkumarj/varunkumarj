@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://varunj.dev"><img src="https://img.shields.io/badge/Portfolio-varunj.dev-black?style=for-the-badge" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/varunkumarj"><img src="https://img.shields.io/badge/LinkedIn-Varun%20Jallepalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/varunjallepalli"><img src="https://img.shields.io/badge/LinkedIn-Varun%20Jallepalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:varunjallepalli@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
